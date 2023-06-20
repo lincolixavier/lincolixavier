@@ -1,5 +1,6 @@
 
-<h3 align="left">Olá 👋 Meu nome é Lincoli, sim, Lincoli... não Lincoln 🙃</h3>
+<h3 align="left">Hello there 👋 My name is Lincoli, yeap, Lincoli... not Lincoln 🙃</h3>
+<h5>I'm a Brazilian software engineer, digital nomad and photographer <br> </h5>
 
 ###
 
@@ -10,7 +11,7 @@
 
 <br>
 
-#### O que gosto de fazer 👨‍💻
+#### What I like to do 👨‍💻
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -23,7 +24,7 @@
 
 </div>
 
-#### Me encontre por aí 🌎
+#### Get in touch 🌎
 
 <div align="left">
   <a href="https://twitter.com/lincolixavier" target="_blank">
