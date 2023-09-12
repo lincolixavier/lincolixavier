@@ -2,9 +2,6 @@
 <h3 align="left">Hello there 👋 My name is Lincoli, yeap, Lincoli... not Lincoln 🙃</h3>
 <h5>I'm a Brazilian software engineer, digital nomad and photographer <br> </h5>
 
-###
-<br>
-
 #### What I like to do 👨‍💻
 
 <div align="left">
