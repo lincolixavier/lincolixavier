@@ -15,6 +15,8 @@
 
 </div>
 
+#### [![wakatime](https://wakatime.com/badge/user/7ea092ae-e9c3-4ec1-89fd-7886098786ee.svg)](https://wakatime.com/@7ea092ae-e9c3-4ec1-89fd-7886098786ee)
+
 #### Get in touch 🌎
 
 <div align="left">
