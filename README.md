@@ -1,7 +1,8 @@
 # Hi there! 👋 I'm Lincoli Xavier
 
 🚀 **Developer | Digital Nomad | Photographer**  
-💻 Crafting scalable apps, sharing knowledge & exploring the world
+
+💻 Crafting software, sharing knowledge & exploring the world
 
 ## 📊 Coding Activity
 ### [![wakatime](https://wakatime.com/badge/user/7ea092ae-e9c3-4ec1-89fd-7886098786ee.svg)](https://wakatime.com/@7ea092ae-e9c3-4ec1-89fd-7886098786ee)
@@ -16,6 +17,6 @@
 🔹 **[clube-do-livro-dev](https://github.com/lincolixavier/clube-do-livro-dev)** - A book club for devs  
 🔹 **[nami-browser](https://github.com/lincolixavier/nami-browser)** - A simple browser built with Rust from scratch  
 🔹 **Librium** - Coming soon...  
-🔹 **GenelisLab** - Coming...  
+🔹 **GenesisLab** - Coming...  
 
 🚀 Keep building, keep learning! Let's create something amazing together!
