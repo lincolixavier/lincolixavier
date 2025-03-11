@@ -1,33 +1,21 @@
+# Hi there! 👋 I'm Lincoli Xavier
 
-<h3 align="left">Hello there 👋 My name is Lincoli, yeap, Lincoli... not Lincoln 🙃</h3>
-<h5>I'm a Brazilian software engineer, digital nomad and photographer <br> </h5>
+🚀 **Developer | Digital Nomad | Photographer**  
+💻 Crafting scalable apps, sharing knowledge & exploring the world
 
-#### What I like to do 👨‍💻
+## 📊 Coding Activity
+### [![wakatime](https://wakatime.com/badge/user/7ea092ae-e9c3-4ec1-89fd-7886098786ee.svg)](https://wakatime.com/@7ea092ae-e9c3-4ec1-89fd-7886098786ee)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="30" width="42" alt="rust logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="30" width="42" alt="elixir logo" />
-                  
+### 🌐 Let's Connect!
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/lincolixavier)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lincoli.xavier)
+[![Linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/lincoli-xavier/)
 
-</div>
+### 📌 Featured Repos on Github
+🔹 **[awesome-extreme-programming](https://github.com/lincolixavier/awesome-extreme-programming)** - Resources for eXtreme Programming  
+🔹 **[clube-do-livro-dev](https://github.com/lincolixavier/clube-do-livro-dev)** - A book club for devs  
+🔹 **[nami-browser](https://github.com/lincolixavier/nami-browser)** - A simple browser built with Rust from scratch  
+🔹 **Librium** - Coming soon...  
+🔹 **GenelisLab** - Coming...  
 
-#### [![wakatime](https://wakatime.com/badge/user/7ea092ae-e9c3-4ec1-89fd-7886098786ee.svg)](https://wakatime.com/@7ea092ae-e9c3-4ec1-89fd-7886098786ee)
-
-#### Get in touch 🌎
-
-<div align="left">
-  <a href="https://twitter.com/lincolixavier" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/lincoli-xavier/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
- <a href="https://www.instagram.com/lincolimonteiro/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram logo"  />
-  </a>
-
-</div>
+🚀 Keep building, keep learning! Let's create something amazing together!
