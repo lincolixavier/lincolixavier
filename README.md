@@ -4,8 +4,8 @@
 
 💻 Crafting software, sharing knowledge & exploring the world
 
-## 📊 Coding Activity
-### [![wakatime](https://wakatime.com/badge/user/7ea092ae-e9c3-4ec1-89fd-7886098786ee.svg)](https://wakatime.com/@7ea092ae-e9c3-4ec1-89fd-7886098786ee)
+### 📊 Coding Activity
+## [![wakatime](https://wakatime.com/badge/user/7ea092ae-e9c3-4ec1-89fd-7886098786ee.svg)](https://wakatime.com/@7ea092ae-e9c3-4ec1-89fd-7886098786ee)
 
 ### ✈️ Go Nomad
 🔹 **[My Community for Digital Nomads](gonomadz.com)**
