@@ -7,16 +7,28 @@
 ### 📊 Coding Activity
 ## [![wakatime](https://wakatime.com/badge/user/7ea092ae-e9c3-4ec1-89fd-7886098786ee.svg)](https://wakatime.com/@7ea092ae-e9c3-4ec1-89fd-7886098786ee)
 
-### ✈️ Go Nomad
-🔹 **[My Community for Digital Nomads](gonomadz.com)**
+### ✈️ Building
+🔹 **[Unlocd Solutions](unlocd.solutions)** - Sustainable digital solutions, built to last. 
+
+🔹 **[Nomadz](gonomadz.com)** - My Community for Digital Nomads
+
+🔹 **[Guiddly](guiddly.com)** - Your Particular Travel Guid - Coming... 
+
+🔹 **[BellaGesão](guiddly.com)** - Your Particular Travel Guid - Coming...  \
+
+🔹 **ClimHub** - Next Generation Social Media Management - Coming...  
+
+🔹 **Librium** - Reading books will ne never the same ... - Coming...   
+
+🔹 **Guiddly** - Coming... 
 
 ### 📌 Featured Repos
 
 🔹 **[awesome-extreme-programming](https://github.com/lincolixavier/awesome-extreme-programming)** - Resources for eXtreme Programming  
 🔹 **[clube-do-livro-dev](https://github.com/lincolixavier/clube-do-livro-dev)** - A book club for devs  
 🔹 **[nami-browser](https://github.com/lincolixavier/nami-browser)** - A simple browser built with Rust from scratch  
-🔹 **Librium** - Coming soon...  
-🔹 **GenesisLab** - Coming...  
+ 
+
 
 🚀 Keep building, keep learning! Let's create something amazing together!
 
