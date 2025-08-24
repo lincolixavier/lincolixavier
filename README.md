@@ -14,7 +14,7 @@
 
 🔹 **[Guiddly](guiddly.com)** - Your Particular Travel Guid - Coming... 
 
-🔹 **[BellaGesão](guiddly.com)** - Your Particular Travel Guid - Coming...  \
+🔹 **[BellaGesão](guiddly.com)** - Solutions for Beauty Small Business
 
 🔹 **ClimHub** - Next Generation Social Media Management - Coming...  
 
