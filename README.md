@@ -8,19 +8,21 @@
 ## [![wakatime](https://wakatime.com/badge/user/7ea092ae-e9c3-4ec1-89fd-7886098786ee.svg)](https://wakatime.com/@7ea092ae-e9c3-4ec1-89fd-7886098786ee)
 
 ### ✈️ Keep Building
-🔹 **[Unlocd Solutions](unlocd.solutions)** - Sustainable digital solutions, built to last. 
-🔹 **[Arki](usearki.dev)** - Full Stack SaaS starter Kit for Indie Hackers 
-🔹 **[Nomadz](gonomadz.com)** - My Community for Digital Nomads
-🔹 **[Guiddly](guiddly.com)** - Your Particular Travel Guid 
-🔹 **[BellaGesão](bellagestao.com.br)** - Solutions for Beauty Small Business
-🔹 **[Horizontes Quadros](horizontesquadros.com)** - My Photo Gallery
-🔹 **ClimHub** - Next Generation Social Media Management 
-🔹 **Librium** - Reading books will ne never the same  
+🔹 **[Unlocd Solutions](unlocd.solutions)** - Sustainable digital solutions, built to last  
+🔹 **[Arki](usearki.dev)** - Full Stack SaaS starter Kit for Indie Hackers   
+🔹 **[Nomadz](gonomadz.com)** - My Community for Digital Nomads  
+🔹 **[Guiddly](guiddly.com)** - Your Particular Travel Guid   
+🔹 **[BellaGesão](bellagestao.com.br)** - Solutions for Beauty Small Business  
+🔹 **[Horizontes Quadros](horizontesquadros.com)** - My Photo Gallery  
+🔹 **ClimHub** - Next Generation Social Media Management  
+🔹 **Librium** - Reading books will ne never the same   
 
 
 ### 📌 Featured Repos
 
+
 🔹 **[awesome-extreme-programming](https://github.com/lincolixavier/awesome-extreme-programming)** - Resources for eXtreme Programming  
+🔹 **[awesome-indie-hackers](https://github.com/lincolixavier/awesome-indie-hackers)** - Resources for Indie Hackers  
 🔹 **[clube-do-livro-dev](https://github.com/lincolixavier/clube-do-livro-dev)** - A book club for devs  
 🔹 **[nami-browser](https://github.com/lincolixavier/nami-browser)** - A simple browser built with Rust from scratch  
  
