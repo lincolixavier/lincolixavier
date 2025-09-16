@@ -7,20 +7,16 @@
 ### 📊 Coding Activity
 ## [![wakatime](https://wakatime.com/badge/user/7ea092ae-e9c3-4ec1-89fd-7886098786ee.svg)](https://wakatime.com/@7ea092ae-e9c3-4ec1-89fd-7886098786ee)
 
-### ✈️ Building
+### ✈️ Keep Building
 🔹 **[Unlocd Solutions](unlocd.solutions)** - Sustainable digital solutions, built to last. 
-
+🔹 **[Arki](usearki.dev)** - Full Stack SaaS starter Kit for Indie Hackers 
 🔹 **[Nomadz](gonomadz.com)** - My Community for Digital Nomads
+🔹 **[Guiddly](guiddly.com)** - Your Particular Travel Guid 
+🔹 **[BellaGesão](bellagestao.com.br)** - Solutions for Beauty Small Business
+🔹 **[Horizontes Quadros](horizontesquadros.com)** - My Photo Gallery
+🔹 **ClimHub** - Next Generation Social Media Management 
+🔹 **Librium** - Reading books will ne never the same  
 
-🔹 **[Guiddly](guiddly.com)** - Your Particular Travel Guid - Coming... 
-
-🔹 **[BellaGesão](guiddly.com)** - Solutions for Beauty Small Business
-
-🔹 **ClimHub** - Next Generation Social Media Management - Coming...  
-
-🔹 **Librium** - Reading books will ne never the same ... - Coming...   
-
-🔹 **Guiddly** - Coming... 
 
 ### 📌 Featured Repos
 
