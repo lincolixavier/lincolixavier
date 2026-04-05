@@ -10,11 +10,12 @@
 ### ✈️ Keep Building
 🔹 **[Unlocd Solutions](https://unlocd.solutions)** - Sustainable digital solutions, built to last  
 🔹 **[Arki](https://usearki.dev)** - Full Stack SaaS starter Kit for Indie Hackers   
+🔹 **[TalkBud](https://talkbud.app)** - English Buddy for Brazilians learn english through real conversations  
 🔹 **[Nomadz](https://gonomadz.com)** - My Community for Digital Nomads  
 🔹 **[Guiddly](https://guiddly.com)** - Your Particular Travel Guid   
 🔹 **[BellaGesão](https://bellagestao.com.br)** - Solutions for Beauty Small Business  
 🔹 **[Horizontes Quadros](https://horizontesquadros.com)** - My Photo Gallery  
-🔹 **ClimHub** - Next Generation Social Media Management  
+🔹 **Wynd** - Next Generation For Psychology Professionals
 🔹 **Librium** - Reading books will ne never the same   
 
 
